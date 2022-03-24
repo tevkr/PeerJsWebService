@@ -1,0 +1,3 @@
+C:\Users\monst\Desktop\VideoChatConferences\VideoChatConferences\PeerJsWebService\obj\Debug\PeerJsWebService.njsproj.AssemblyReference.cache
+C:\Users\monst\Desktop\VideoChatConferences\VideoChatConferences\PeerJsWebService\obj\Debug\PeerJsWebService.njsproj.CoreCompileInputs.cache
+C:\Users\monst\Desktop\VideoChatConferences\VideoChatConferences\PeerJsWebService\bin\Microsoft.NodejsTools.WebRole.dll
